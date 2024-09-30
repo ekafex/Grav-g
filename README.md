@@ -18,3 +18,6 @@ This is a DIY instrument to measure the gravity **g** using the free fall. It ac
 * a KY-037 high sensitivity sound detection module
 * a servo motor SG90
 * two push buttons
+
+
+![fritzing](figs/skema_bb.png)
