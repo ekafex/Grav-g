@@ -1,6 +1,6 @@
 # Grav-g meter
 
-![whatever](figs/logo.png)
+![screenshot](figs/logo.png)
 
 This is a DIY instrument to measure the gravity **g** using the free fall. It accurately measures the height   with an HC-SR04 ultrasonic sensor and the free fall time by utilizing a KY-037 sound trigger sensor. 
 
